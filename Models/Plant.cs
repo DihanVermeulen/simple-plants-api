@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace PlantsApi.Models
+namespace SimplePlantsApi.Models
 {
     public class Plant
     {
