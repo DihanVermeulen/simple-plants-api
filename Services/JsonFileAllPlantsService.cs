@@ -1,7 +1,7 @@
 using System.Text.Json;
 using SimplePlantsApi.Models;
 
-namespace SimplePlantsApi
+namespace SimplePlantsApi.Services
 {
     public class JsonFileAllPlantsService
     {
